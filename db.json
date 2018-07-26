@@ -1,14 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employee" :[
+      {"id": 1,"name" : "Rajesh", "designation" : "Software Engineer", "age" : 24,"url" : "https://github.com/Sourav992v/Data/blob/master/Images/boss.png"},
+      {"id": 2,"name" : "Suresh", "designation" : "Software Engineer", "age" : 20,"url" : "https://github.com/Sourav992v/Data/blob/master/Images/man.png"},
+      {"id": 3,"name" : "Natasha", "designation" : "Software Developer", "age" : 25,"url" : "https://github.com/Sourav992v/Data/blob/master/Images/girl22.png"},
+      {"id": 4,"name" : "Arun", "designation" : "Data Scientist", "age" : 34, "url" : "https://github.com/Sourav992v/Data/blob/master/Images/student.png"},
+      {"id": 5,"name" : "Sunita", "designation" : "Associate System Engineer", "age" : 26,"url" : "https://github.com/Sourav992v/Data/blob/master/Images/girl21.png"}
+        ]    
 }
